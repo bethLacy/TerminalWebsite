@@ -1,5 +1,4 @@
 /* CSS Styles */
-
 html {
     background-color: #efefef;
 }
@@ -91,4 +90,11 @@ a:hover, a:focus {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-bottom: none;
+}
+
+.finePrint {
+    color: grey;
+    font-size: x-small;
+    font-style: initial;
+    font-style: italic;
 }
