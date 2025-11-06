@@ -1,7 +1,7 @@
 /* CSS Styles */
 
 html {
-     background-color: #efefef;
+    background-color: #efefef;
 }
 
 body {
@@ -17,7 +17,6 @@ body {
     border-width: 5px;
     border-radius: 20px;
     border-style: solid;
-
 }
 
 ul {
