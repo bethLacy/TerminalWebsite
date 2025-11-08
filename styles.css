@@ -132,7 +132,7 @@ a:hover, a:focus {
     border-bottom-width: 5px;
     border-bottom-style: dotted;
     border-bottom-color: rgb(147, 18, 18);
-    font-size: 2.75rem;
+    font: 3rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: normal;
   }
