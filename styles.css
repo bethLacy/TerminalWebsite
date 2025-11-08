@@ -144,7 +144,7 @@ a:hover, a:focus {
 
   .finePrint {
     color: grey;
-    font-size: small;
+    font-size: 1.3rem;
     font-style: initial;
     font-style: italic;
   }
