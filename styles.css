@@ -101,6 +101,12 @@ a:hover, a:focus {
 
 @media screen and (max-width: 500px) {
   /*runs on smaller screens*/
+
+  h2 {
+    font-style: bold;
+    font-size: 2rem;
+  }
+
   body {
     font: 2.5rem;
     padding: 20px;
@@ -134,11 +140,6 @@ a:hover, a:focus {
     font: 3rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: normal;
-  }
-
-  h2 {
-    font-style: italic;
-    font-size: 2.5rem;
   }
 
   .finePrint {
