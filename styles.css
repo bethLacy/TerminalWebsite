@@ -95,7 +95,7 @@ a:hover, a:focus {
 
 .finePrint {
     color: grey;
-    font-size: x-small;
+    font-size: small;
     font-style: initial;
     font-style: italic;
 }
@@ -103,7 +103,7 @@ a:hover, a:focus {
 @media screen and (max-width: 500px) {
   /*runs on smaller screens*/
   body {
-    font: 2rem;
+    font: 2.5rem;
     padding: 20px;
     width: 75%;
     height: 90%;
@@ -132,7 +132,7 @@ a:hover, a:focus {
     border-bottom-width: 5px;
     border-bottom-style: dotted;
     border-bottom-color: rgb(147, 18, 18);
-    font-size: 4rem;
+    font-size: 2.75rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: normal;
   }
