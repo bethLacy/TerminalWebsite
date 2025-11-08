@@ -94,8 +94,7 @@ a:hover, a:focus {
 }
 
 .finePrint {
-    color: grey;
-    font-size:medium;
+    font-size: medium;
     font-style: initial;
     font-style: italic;
 }
@@ -143,10 +142,25 @@ a:hover, a:focus {
   }
 
   .finePrint {
-    color: grey;
     font-size:medium;
     font-style: initial;
     font-style: italic;
+  }
+
+  .angryNews {
+    font-style: initial;
+    font-style: bold;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: none;
+    font: 2.5rem;
+  }
+
+  .blink{
+  width:275px;
+  height:400px;
+  border:3px dashed darkred;
+  animation: blink 0.5s infinite;
   }
 
 }
