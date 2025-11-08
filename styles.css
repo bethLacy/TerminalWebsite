@@ -6,10 +6,11 @@ html {
 body {
     font: 1.2em / 1.5 system-ui;
     padding: 20px;
-    width: 75%;
+    width: 90%;
+    height: 90%;
     background-color: #efefef;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 1%;
+    margin-bottom: 1%;
     margin-left: auto;
     margin-right: auto;
     border-color: rgb(128, 0, 0);
