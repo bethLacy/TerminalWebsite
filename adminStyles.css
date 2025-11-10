@@ -1,0 +1,76 @@
+/* CSS Styles */
+html {
+    background-color: #efefef;
+}
+
+body {
+    font: 1.2em / 1.5 system-ui;
+    padding: 20px;
+    width: 90%;
+    height: 90%;
+    background-color: #efefef;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: rgb(128, 0, 0);
+    border-width: 5px;
+    border-radius: 20px;
+    border-style: solid;
+}
+
+h1 {
+    color: darkslategray;
+    border-bottom-width: 5px;
+    border-bottom-style: dotted;
+    border-bottom-color: rgb(147, 18, 18);
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-style: bold;
+    font-size: 1.5rem;
+    color: darkred;
+}
+
+a:any-link {
+    color: rgb(147, 33, 33);
+    font-style: italic;
+}
+
+a:hover, a:focus {
+    color: rgb(190, 57, 57);
+    font-style: bold;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+  /*runs on smaller screens*/
+
+  h2 {
+    font-style: bold;
+    font-size: 2rem;
+  }
+
+  body {
+    font: 2.5rem;
+    padding: 20px;
+    width: 75%;
+    height: 90%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-radius: 20px;
+    border-style: solid;
+  }
+
+  h1 {
+    border-bottom-width: 5px;
+    font: 3rem;
+  }
+
+}
