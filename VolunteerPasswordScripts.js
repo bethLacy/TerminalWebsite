@@ -1,4 +1,4 @@
-let password = "STEVO";
+let password = "VOLUNTEER";
 (function passcodeprotect() {
     let passcode = prompt("Enter Password");
     while (passcode !== password) {
