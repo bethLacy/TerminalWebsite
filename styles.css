@@ -120,6 +120,9 @@ a:hover, a:focus {
 
   body {
     font: 2.5rem;
+  }
+
+  .main {
     padding: 20px;
     width: 75%;
     height: 90%;
